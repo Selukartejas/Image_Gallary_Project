@@ -51,7 +51,3 @@ To set up the Image Gallery Project on your local machine, follow these steps:
 - **User Authentication:** Implement a secure login system to protect user data.
 - **Search and Filter:** Add functionality to search and filter images for quick access.
 
-Feel free to contribute to the project by submitting pull requests or reporting issues.
-
-Happy organizing!
-
